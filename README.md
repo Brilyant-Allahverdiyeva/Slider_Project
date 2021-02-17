@@ -1,1 +1,1 @@
-# Slider_Project
+# Slider Project
